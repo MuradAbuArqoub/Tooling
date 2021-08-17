@@ -97,7 +97,7 @@ and the PyCharm is for python developers so it wont be as handy as the visual st
 
 <br />
 
-**operating system:** my main work is on windows because am used to work with this operating system and know how to deal with it but for that doesnt mean i cant use the LINUX terminal for my file confermation and config, so my work is mixed between both of them because you cant deny their benifits for me as a developer.
+**operating system:** my main work is on windows because am used to work with this operating system and know how to deal with it but for that doesnt mean i cant use the LINUX terminal for my file confermation and config, so my work is mixed between both of them because you cant deny their benifits for me as a web developer and a programmer.
 
 <br />
 
