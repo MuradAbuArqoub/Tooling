@@ -223,6 +223,20 @@ as main working stations the PyCharm is mainly used for python developers so i w
 
 adding our daily documintations and showcase our progress across the team members, and most importantly track changes and edits in the group project.
 
+<hr>
 
+## references:
 
+Why Visual Studio Code?. (2021). Retrieved 8 September 2021, from https://code.visualstudio.com/docs/editor/whyvscode
 
+What is PyCharm? Features, Advantages & Disadvantages. (2021). Retrieved 8 September 2021, from https://hackr.io/blog/what-is-pycharm
+
+Why Visual Studio Code?. (2021). Retrieved 8 September 2021, from https://code.visualstudio.com/docs/editor/whyvscode
+
+Definitions, W., & Hope, C. (2021). What is Windows?. Retrieved 8 September 2021, from https://www.computerhope.com/jargon/w/windows.htm
+
+What is Linux? - Linux.com. (2021). Retrieved 8 September 2021, from https://www.linux.com/what-is-linux/
+
+What Is GitHub? A Beginner's Introduction to GitHub. (2021). Retrieved 8 September 2021, from https://kinsta.com/knowledgebase/what-is-github/
+
+What is GitLab?. (2021). Retrieved 8 September 2021, from https://about.gitlab.com/what-is-gitlab/
